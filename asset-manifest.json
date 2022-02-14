@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2c1f2178.chunk.css",
-    "main.js": "/static/js/main.ad0bcdd3.chunk.js",
-    "main.js.map": "/static/js/main.ad0bcdd3.chunk.js.map",
+    "main.js": "/static/js/main.c2829b8d.chunk.js",
+    "main.js.map": "/static/js/main.c2829b8d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00060668.js",
     "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
-    "static/js/2.dec1ad79.chunk.js": "/static/js/2.dec1ad79.chunk.js",
-    "static/js/2.dec1ad79.chunk.js.map": "/static/js/2.dec1ad79.chunk.js.map",
+    "static/js/2.dad257ee.chunk.js": "/static/js/2.dad257ee.chunk.js",
+    "static/js/2.dad257ee.chunk.js.map": "/static/js/2.dad257ee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8a612bf1e934cd1a4ca5efce25cfe59f.js": "/precache-manifest.8a612bf1e934cd1a4ca5efce25cfe59f.js",
+    "precache-manifest.be38677af5a127ab3d09d4b76428977d.js": "/precache-manifest.be38677af5a127ab3d09d4b76428977d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2c1f2178.chunk.css.map": "/static/css/main.2c1f2178.chunk.css.map",
-    "static/js/2.dec1ad79.chunk.js.LICENSE.txt": "/static/js/2.dec1ad79.chunk.js.LICENSE.txt",
+    "static/js/2.dad257ee.chunk.js.LICENSE.txt": "/static/js/2.dad257ee.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
     "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
@@ -24,7 +24,6 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/gtu.png": "/static/media/gtu.3d9465c3.png",
     "static/media/hackathon1.svg": "/static/media/hackathon1.7a2dbf7a.svg",
-    "static/media/harikrushn.jpg": "/static/media/harikrushn.823352fd.jpg",
     "static/media/iit.png": "/static/media/iit.36d7942a.png",
     "static/media/innotek.png": "/static/media/innotek.9f01ccb4.png",
     "static/media/ino.png": "/static/media/ino.ccf88661.png",
@@ -49,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00060668.js",
-    "static/js/2.dec1ad79.chunk.js",
+    "static/js/2.dad257ee.chunk.js",
     "static/css/main.2c1f2178.chunk.css",
-    "static/js/main.ad0bcdd3.chunk.js"
+    "static/js/main.c2829b8d.chunk.js"
   ]
 }

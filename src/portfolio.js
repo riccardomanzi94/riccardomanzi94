@@ -72,15 +72,50 @@ const skills = {
           },
         },
         {
-          skillName: "Amazon AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Apache Tomcat",
+          fontAwesomeClassname: "simple-icons:apachetomcat",
           style: {
             color: "#3776AB",
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
+          skillName: "Jira Software",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "JSON",
+          fontAwesomeClassname: "simple-icons:json",
+          style: {
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "GitLab",
+          fontAwesomeClassname: "simple-icons:gitlab",
+          style: {
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Bitbucket",
+          fontAwesomeClassname: "simple-icons:bitbucket",
+          style: {
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "SonarQube",
+          fontAwesomeClassname: "simple-icons:sonarqube",
+          style: {
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "simple-icons:jenkins",
           style: {
             color: "#3776AB",
           },
@@ -133,9 +168,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+         "⚡ Experience working on multiple cloud platforms",
+         "⚡ Experience hosting and managing websites",
+         "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
         {
@@ -187,6 +222,13 @@ const skills = {
             color: "#5b77ef",
           },
         },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: {
+            color: "#5b77ef",
+          },
+        },
       ],
     },
   ],
@@ -215,7 +257,7 @@ const degrees = {
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, etc.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
       ],
-      website_link: "htpps://www.liceopietrobono.edu.it/",
+      website_link: "https://www.liceopietrobono.edu.it/",
     },
   ],
 };
@@ -423,7 +465,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
+      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Linkedin.",
     link: "https://www.linkedin.com/in/riccardomanzi/",
     avatar_image_path: "blogs_image.svg",
   },

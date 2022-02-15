@@ -26,7 +26,6 @@ const socialMediaLinks = {
   github: "https://github.com/riccardomanzi94",
   linkedin: "https://www.linkedin.com/in/riccardomanzi/",
   gmail: "riccardomanzi1994@gmail.com",
-  //gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/riccardo.manzi.22/",
   twitter: "https://twitter.com/riccardomanzi94",
   instagram: "https://www.instagram.com/riccardomanzi94/",
@@ -162,6 +161,13 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "Apache JMeter",
+          fontAwesomeClassname: "simple-icons:apachejmeter",
+          style: {
+            color: "#5b77ef",
+          },
+        },
       ],
     },
     {
@@ -225,6 +231,13 @@ const skills = {
         {
           skillName: "Linux",
           fontAwesomeClassname: "simple-icons:linux",
+          style: {
+            color: "#5b77ef",
+          },
+        },
+        {
+          skillName: "Apache Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
           style: {
             color: "#5b77ef",
           },
@@ -315,8 +328,6 @@ const certifications = {
       title: "Corso MongoDB: basi del database no-sql più usato al mondo",
       subtitle: "Udemy",
       logo_path: "udemy.png",
-      //certificate_link:
-      //  "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
       alt_name: "Udemy",
       // color_code: "#f36c3d",
       color_code: "#a434f3",
@@ -355,7 +366,6 @@ const experience = {
           `Cliente Sisal Betting International.Progetto costruito per gestire l'iter della scommessa di un qualsiasi evento. 
            Il progetto è un adapter per consentire ai provider internazionali di comunicare con i sistemi Sisal. Il backend è scritto in Java utilizzando Spring framework ed in particolare Spring boot. La comunicazione con i sistemi esterni avviene tramite chiamate Rest con protocollo http. La documentazione è creata attraverso Swagger 2.0 il quale permette, tramite un tool apposito, l'export del file yaml contenente la descrizione del modello e dei servizi REST esposti
           `,
-            // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
         },
         {
@@ -368,81 +378,10 @@ const experience = {
           `Progetto basato sulla reingegnerizzazione dei sistemi TIM . In particolare i sistemi vengono utilizzati dagli operatori del cliente per creare nuove pratiche che consentono la creazione di contratti ADSL e fibra FTTC e FTTH. I sistemi sono basati su : - backend : Java 6,7,8 e Grails 2.0.4 e 2.2.4 . - frontend : html , Zkoss, Primefaces . 
            Questi applicativi sono installati su : - Jboss - Wildfly - Apache Tomcat v9 - Oracle Weblogic Il framework per alcuni progetti è stato Spring per il backend e primefaces per il frontend. Si utilizza una CD/CI che comprende: - GitLab : repository centralizzato - Jenkins : gestisce la creazione dei pacchetti dell'applicativo - Nexus : repository con tutte le librerie necessarie a supporto dei vari progetti - SonarQube : controllo continuo della qualità del codice per eseguire revisioni automatiche
           `,
-            // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
         }
       ],
     },
-    /*{
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
-          company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-          color: "#4285F4",
-        },
-        {
-          title: "Campus Hustler",
-          company: "Skillenza",
-          company_url: "https://skillenza.com/",
-          logo_path: "skillenza.png",
-          duration: "Feb 2021 - Present",
-          location: "Work from Home",
-          description: "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-          color: "#196acf",
-        },
-        {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
-          description:
-          "Contribute to Open Source Community and Open Source Project.",
-          color: "#040f26",
-        },
-        {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
-          company_url: "https://gdg.community.dev/",
-          logo_path: "gdg.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
-        },
-      ],
-    },*/
   ],
 };
 

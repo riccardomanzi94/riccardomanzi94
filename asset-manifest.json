@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2c1f2178.chunk.css",
-    "main.js": "/static/js/main.d32026cc.chunk.js",
-    "main.js.map": "/static/js/main.d32026cc.chunk.js.map",
+    "main.js": "/static/js/main.a9722fb5.chunk.js",
+    "main.js.map": "/static/js/main.a9722fb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00060668.js",
     "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
-    "static/js/2.dad257ee.chunk.js": "/static/js/2.dad257ee.chunk.js",
-    "static/js/2.dad257ee.chunk.js.map": "/static/js/2.dad257ee.chunk.js.map",
+    "static/js/2.dec1ad79.chunk.js": "/static/js/2.dec1ad79.chunk.js",
+    "static/js/2.dec1ad79.chunk.js.map": "/static/js/2.dec1ad79.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7a10dca91ad8e59c39cd726e0bbb068b.js": "/precache-manifest.7a10dca91ad8e59c39cd726e0bbb068b.js",
+    "precache-manifest.d3fa566234c06993fa96dbc6033fd14b.js": "/precache-manifest.d3fa566234c06993fa96dbc6033fd14b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2c1f2178.chunk.css.map": "/static/css/main.2c1f2178.chunk.css.map",
-    "static/js/2.dad257ee.chunk.js.LICENSE.txt": "/static/js/2.dad257ee.chunk.js.LICENSE.txt",
+    "static/js/2.dec1ad79.chunk.js.LICENSE.txt": "/static/js/2.dec1ad79.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
     "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
@@ -34,6 +34,7 @@
     "static/media/mlh.png": "/static/media/mlh.53dd27a8.png",
     "static/media/mongo.png": "/static/media/mongo.d324ee17.png",
     "static/media/nightowls.jpg": "/static/media/nightowls.5dcd18d0.jpg",
+    "static/media/oracle.png": "/static/media/oracle.8110d987.png",
     "static/media/postman.jpg": "/static/media/postman.22f11067.jpg",
     "static/media/postman.png": "/static/media/postman.c108f557.png",
     "static/media/riccardo.jpg": "/static/media/riccardo.b7aeb854.jpg",
@@ -48,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00060668.js",
-    "static/js/2.dad257ee.chunk.js",
+    "static/js/2.dec1ad79.chunk.js",
     "static/css/main.2c1f2178.chunk.css",
-    "static/js/main.d32026cc.chunk.js"
+    "static/js/main.a9722fb5.chunk.js"
   ]
 }

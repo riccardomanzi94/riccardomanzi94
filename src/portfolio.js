@@ -278,6 +278,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Oracle Cloud Infrastructure Foundations 2021 Associate",
+      subtitle: "Oracle",
+      logo_path: "oracle.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB1E2C0B1F18728135E6EC87B9F556903561B59CF3371813153ED0B15982FA05",
+      alt_name: "Oracle",
+      color_code: "#a05a36",
+    },
+    {
       title: "Impariamo da zero l'ecosistema Spring: Teoria e Pratica",
       subtitle: "Udemy",
       logo_path: "udemy.png",

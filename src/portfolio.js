@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "BackEnd Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/17Klo8gtK7-y82tunSw7F2OOkk-b7ex2A/view",
+    "https://drive.google.com/file/d/17QhTW9miXqE0ndsQJ6v8cKRPvMCFtqjM/view",
   mail: "mailto:riccardomanzi1994@gmail.com",
 };
 

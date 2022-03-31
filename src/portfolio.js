@@ -382,7 +382,7 @@ const experience = {
           company: "Capgemini Italia Spa",
           company_url: "https://www.capgemini.com/it-it/",
           logo_path: "capgemini.png",
-          duration: "Agosto 2019 – Ottobre 2020",
+          duration: "Marzo 2019 – Ottobre 2020",
           description:
           `Progetto basato sulla reingegnerizzazione dei sistemi TIM . In particolare i sistemi vengono utilizzati dagli operatori del cliente per creare nuove pratiche che consentono la creazione di contratti ADSL e fibra FTTC e FTTH. I sistemi sono basati su : - backend : Java 6,7,8 e Grails 2.0.4 e 2.2.4 . - frontend : html , Zkoss, Primefaces . 
            Questi applicativi sono installati su : - Jboss - Wildfly - Apache Tomcat v9 - Oracle Weblogic Il framework per alcuni progetti è stato Spring per il backend e primefaces per il frontend. Si utilizza una CD/CI che comprende: - GitLab : repository centralizzato - Jenkins : gestisce la creazione dei pacchetti dell'applicativo - Nexus : repository con tutte le librerie necessarie a supporto dei vari progetti - SonarQube : controllo continuo della qualità del codice per eseguire revisioni automatiche

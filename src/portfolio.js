@@ -10,7 +10,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Riccardo",
+  title2: " Riccardo",
   logo_name: "riccardo.m()",
   nickname: "Riccardo Manzi",
   full_name: "Riccardo Manzi",

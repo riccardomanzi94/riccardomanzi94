@@ -278,15 +278,6 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Oracle Cloud Infrastructure Foundations 2021 Associate",
-      subtitle: "Oracle",
-      logo_path: "oracle.png",
-      certificate_link:
-        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB1E2C0B1F18728135E6EC87B9F556903561B59CF3371813153ED0B15982FA05",
-      alt_name: "Oracle",
-      color_code: "#a05a36",
-    },
-    {
       title: "Impariamo da zero l'ecosistema Spring: Teoria e Pratica",
       subtitle: "Udemy",
       logo_path: "udemy.png",
@@ -316,6 +307,33 @@ const certifications = {
       color_code: "#a434f3",
     },
     {
+      title: "Corso MongoDB: basi del database no-sql più usato al mondo",
+      subtitle: "Udemy",
+      logo_path: "udemy.png",
+      alt_name: "Udemy",
+      // color_code: "#f36c3d",
+      color_code: "#a434f3",
+    },
+    {
+      title: "Impariamo da zero il framework Spring Batch",
+      subtitle: "Udemy",
+      logo_path: "udemy.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-460c9126-2d6a-4b01-af2b-e5da7a8c6e87/",
+      alt_name: "Udemy",
+      // color_code: "#f36c3d",
+      color_code: "#a434f3",
+    },
+    {
+      title: "Oracle Cloud Infrastructure Foundations 2021 Associate",
+      subtitle: "Oracle",
+      logo_path: "oracle.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB1E2C0B1F18728135E6EC87B9F556903561B59CF3371813153ED0B15982FA05",
+      alt_name: "Oracle",
+      color_code: "#a05a36",
+    },
+    {
       title: "Scrum Fundamentals Certified",
       subtitle: "SCRUMstudy - Accreditation Body for Scrum and Agile",
       logo_path: "scrum_study.jpg",
@@ -333,14 +351,7 @@ const certifications = {
       alt_name: "Google",
       color_code: "#fe0037",
     },
-    {
-      title: "Corso MongoDB: basi del database no-sql più usato al mondo",
-      subtitle: "Udemy",
-      logo_path: "udemy.png",
-      alt_name: "Udemy",
-      // color_code: "#f36c3d",
-      color_code: "#a434f3",
-    },
+    
   ],
 }
 

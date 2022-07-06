@@ -369,7 +369,7 @@ const experience = {
           company: "Engineering Ingegneria informatica Spa",
           company_url: "https://eng.it",
           logo_path: "eng.png",
-          duration: "Maggio 2021 - Present",
+          duration: "Maggio 2021 - Luglio 2022",
           //location: "Office",
           description:
           `Integrazione dell'istituto INAIL con l'app IO . Infrastruttura a microservizi creata con Java11 e Spring boot 2 . Integrazione tra i microservizi attraverso Apache Camel. Comunicazione tra i servizi grazie ad ActiveMQ Artemis. 

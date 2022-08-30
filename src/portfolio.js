@@ -14,8 +14,7 @@ const greeting = {
   logo_name: "riccardo.m()",
   nickname: "Riccardo Manzi",
   full_name: "Riccardo Manzi",
-  subTitle:
-    "BackEnd Developer, Open Source Enthusiast 🔥. Always learning.",
+  subTitle: "BackEnd Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/17QhTW9miXqE0ndsQJ6v8cKRPvMCFtqjM/view",
   mail: "mailto:riccardomanzi1994@gmail.com",
@@ -39,7 +38,7 @@ const skills = {
       skills: [
         "⚡ Develop BackEnd for your web and mobile applications",
         "⚡ Building BackEnd application using Spring Framework",
-        "⚡ Integration of third party services such as Docker and Kubernetes"
+        "⚡ Integration of third party services such as Docker and Kubernetes",
       ],
       softwareSkills: [
         {
@@ -174,9 +173,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-         "⚡ Experience working on multiple cloud platforms",
-         "⚡ Experience hosting and managing websites",
-         "⚡ Experience with Continuous Integration",
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Experience hosting and managing websites",
+        "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
         {
@@ -251,12 +250,13 @@ const degrees = {
   degrees: [
     {
       title: "Università degli studi di Cassino e del Lazio meridionale",
-      subtitle: "Laurea Triennale in Ingegneria Informatica e delle Telecomunicazioni",
+      subtitle:
+        "Laurea Triennale in Ingegneria Informatica e delle Telecomunicazioni",
       logo_path: "unicas.png",
       //alt_name: "SSEC",
       duration: "2015 - 2018",
       descriptions: [
-        "⚡ I have a bachelor's degree in Computer and Telecommunication Engineering"
+        "⚡ I have a bachelor's degree in Computer and Telecommunication Engineering",
       ],
       website_link: "http://www.unicas.it/",
     },
@@ -344,16 +344,16 @@ const certifications = {
     },
     {
       title: "ECDL Core base",
-      subtitle: "AICA - Associazione Italiana per l'Informatica e il Calcolo Automatico",
+      subtitle:
+        "AICA - Associazione Italiana per l'Informatica e il Calcolo Automatico",
       logo_path: "aica.png",
       certificate_link:
         "https://drive.google.com/file/d/17FTN559XOoQlk9lRFeLt9xqVQwt9NbPJ/view",
       alt_name: "Google",
       color_code: "#fe0037",
     },
-    
   ],
-}
+};
 
 // Experience Page
 const experience = {
@@ -365,14 +365,24 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Consultant",
+          company: "Deloitte",
+          company_url: "www2.deloitte.com/it/it.html",
+          logo_path: "deloitte.png",
+          duration: "Luglio 2022 - present",
+          //location: "Office",
+          description: `Cloud Native & Application Development`,
+          color: "#ee3c26",
+        },
+        ,
+        {
           title: "Solution Developer",
           company: "Engineering Ingegneria informatica Spa",
           company_url: "https://eng.it",
           logo_path: "eng.png",
           duration: "Maggio 2021 - Luglio 2022",
           //location: "Office",
-          description:
-          `Integrazione dell'istituto INAIL con l'app IO . Infrastruttura a microservizi creata con Java11 e Spring boot 2 . Integrazione tra i microservizi attraverso Apache Camel. Comunicazione tra i servizi grazie ad ActiveMQ Artemis. 
+          description: `Integrazione dell'istituto INAIL con l'app IO . Infrastruttura a microservizi creata con Java11 e Spring boot 2 . Integrazione tra i microservizi attraverso Apache Camel. Comunicazione tra i servizi grazie ad ActiveMQ Artemis. 
           Gestione della base dati tramite Microsoft SqlServer 2019 . Applicativi installati su cloud tramite immagini Docker e gestite attraverso Red hat OpenShift. Documentazione API tramite OpenApi.`,
           color: "#ee3c26",
         },
@@ -382,8 +392,7 @@ const experience = {
           company_url: "https://inno-tek.it/",
           logo_path: "innotek.png",
           duration: "Ottobre 2020 – Maggio 2021",
-          description:
-          `Cliente Sisal Betting International.Progetto costruito per gestire l'iter della scommessa di un qualsiasi evento. 
+          description: `Cliente Sisal Betting International.Progetto costruito per gestire l'iter della scommessa di un qualsiasi evento. 
            Il progetto è un adapter per consentire ai provider internazionali di comunicare con i sistemi Sisal. Il backend è scritto in Java utilizzando Spring framework ed in particolare Spring boot. La comunicazione con i sistemi esterni avviene tramite chiamate Rest con protocollo http. La documentazione è creata attraverso Swagger 2.0 il quale permette, tramite un tool apposito, l'export del file yaml contenente la descrizione del modello e dei servizi REST esposti
           `,
           color: "#ee3c26",
@@ -394,12 +403,11 @@ const experience = {
           company_url: "https://www.capgemini.com/it-it/",
           logo_path: "capgemini.png",
           duration: "Marzo 2019 – Ottobre 2020",
-          description:
-          `Progetto basato sulla reingegnerizzazione dei sistemi TIM . In particolare i sistemi vengono utilizzati dagli operatori del cliente per creare nuove pratiche che consentono la creazione di contratti ADSL e fibra FTTC e FTTH. I sistemi sono basati su : - backend : Java 6,7,8 e Grails 2.0.4 e 2.2.4 . - frontend : html , Zkoss, Primefaces . 
+          description: `Progetto basato sulla reingegnerizzazione dei sistemi TIM . In particolare i sistemi vengono utilizzati dagli operatori del cliente per creare nuove pratiche che consentono la creazione di contratti ADSL e fibra FTTC e FTTH. I sistemi sono basati su : - backend : Java 6,7,8 e Grails 2.0.4 e 2.2.4 . - frontend : html , Zkoss, Primefaces . 
            Questi applicativi sono installati su : - Jboss - Wildfly - Apache Tomcat v9 - Oracle Weblogic Il framework per alcuni progetti è stato Spring per il backend e primefaces per il frontend. Si utilizza una CD/CI che comprende: - GitLab : repository centralizzato - Jenkins : gestisce la creazione dei pacchetti dell'applicativo - Nexus : repository con tutte le librerie necessarie a supporto dei vari progetti - SonarQube : controllo continuo della qualità del codice per eseguire revisioni automatiche
           `,
           color: "#ee3c26",
-        }
+        },
       ],
     },
   ],
@@ -436,7 +444,8 @@ const projects = {
       id: "0",
       name: "Progetto laurea triennale",
       //url: "https://github.com/harikanani/AutomateInstaPyBot",
-      description: "Realizzazione di un sistema di monitoraggio spettrale distribuito mediante utilizzo di SDR",
+      description:
+        "Realizzazione di un sistema di monitoraggio spettrale distribuito mediante utilizzo di SDR",
       languages: [
         /*{
           name: "Python",
@@ -532,8 +541,7 @@ const projects = {
       id: "3",
       name: "node_express_crud_api_starter",
       url: "https://github.com/harikanani/node_express_crud_api_starter",
-      description:
-        "Simple NodeJS Express CRUD Operations API starter.",
+      description: "Simple NodeJS Express CRUD Operations API starter.",
       languages: [
         {
           name: "NodeJS",
@@ -591,8 +599,7 @@ const projects = {
       id: "6",
       name: "Automate Attendace",
       url: "https://github.com/harikanani/Node_Python",
-      description:
-        "Automation of Online Attendance using node js and python",
+      description: "Automation of Online Attendance using node js and python",
       languages: [
         {
           name: "JavaScript",
@@ -629,8 +636,7 @@ const projects = {
       id: "8",
       name: "Flask Blog",
       url: "https://github.com/harikanani/flask_blog",
-      description:
-        "A Simple Blog Web Application made using Flask Framework",
+      description: "A Simple Blog Web Application made using Flask Framework",
       languages: [
         {
           name: "Python",
@@ -654,8 +660,7 @@ const projects = {
       id: "9",
       name: "Netflix top series",
       url: "https://github.com/harikanani/netflix-top-series",
-      description:
-        "List of Top Netflix Series which is deployed to vercel.",
+      description: "List of Top Netflix Series which is deployed to vercel.",
       languages: [
         {
           name: "JavaScript",
@@ -679,7 +684,8 @@ const projects = {
       id: "10",
       name: "COVID-19 Tracker",
       url: "https://github.com/harikanani/Covid19TrackerReact",
-      description: "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+      description:
+        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
       languages: [
         {
           name: "JavaScript",
@@ -703,7 +709,8 @@ const projects = {
       id: "11",
       name: "Food Order Static Website",
       url: "https://github.com/harikanani/food-order-website",
-      description: "A simple static website related to food restaurants service. this is reasponsive as well.",
+      description:
+        "A simple static website related to food restaurants service. this is reasponsive as well.",
       languages: [
         {
           name: "HTML5",

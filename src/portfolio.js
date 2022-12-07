@@ -352,6 +352,15 @@ const certifications = {
       alt_name: "Google",
       color_code: "#fe0037",
     },
+    {
+      title: "AWS Cloud Practitioner",
+      subtitle: "AWS",
+      logo_path: "aws.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1xlLye0KpNN5GZUtUpjKSs2t8-oKlHd3B/view",
+      alt_name: "Google",
+      color_code: "#084e89",
+    },
   ],
 };
 

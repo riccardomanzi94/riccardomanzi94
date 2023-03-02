@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "https://riccardomanzi.it/",
+  "homepage": "https://riccardomanzi94.github.io/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",

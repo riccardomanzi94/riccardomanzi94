@@ -376,7 +376,7 @@ const experience = {
         {
           title: "Consultant",
           company: "Deloitte",
-          company_url: "www2.deloitte.com/it/it.html",
+          company_url: "https://www2.deloitte.com/it/it.html",
           logo_path: "deloitte.png",
           duration: "Luglio 2022 - present",
           //location: "Office",

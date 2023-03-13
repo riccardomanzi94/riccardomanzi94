@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Riccardo Manzi",
   subTitle: "BackEnd Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/16eGmWIeu4GLQKTERYwKi5mfQ-Xg5ly2u/view",
+    "https://drive.google.com/file/d/1Uf2dO6nlGSzmULgyr1Ajej24zO2Du9iI/view",
   mail: "mailto:riccardomanzi1994@gmail.com",
 };
 

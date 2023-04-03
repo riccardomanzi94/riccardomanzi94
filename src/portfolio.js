@@ -278,6 +278,52 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "AWS Cloud Practitioner",
+      subtitle: "AWS",
+      logo_path: "aws.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1xlLye0KpNN5GZUtUpjKSs2t8-oKlHd3B/view",
+      alt_name: "Google",
+      color_code: "#2596be",
+    },
+    {
+      title: "Google Cloud Digital Leader",
+      subtitle: "Google Cloud",
+      logo_path: "gcp.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1MTspfJv9NFGGBk47t4nJVRFzBebtDrsh/view",
+      alt_name: "Google",
+      color_code: "#dfe4de",
+    },
+    {
+      title: "Oracle Cloud Infrastructure Foundations 2021 Associate",
+      subtitle: "Oracle",
+      logo_path: "oracle.png",
+      certificate_link:
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB1E2C0B1F18728135E6EC87B9F556903561B59CF3371813153ED0B15982FA05",
+      alt_name: "Oracle",
+      color_code: "#a05a36",
+    },
+    {
+      title: "Scrum Fundamentals Certified",
+      subtitle: "SCRUMstudy - Accreditation Body for Scrum and Agile",
+      logo_path: "scrum_study.jpg",
+      certificate_link:
+        "https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RiccardoManzi-820242.pdf",
+      alt_name: "SCRUMstudy - Accreditation Body for Scrum and Agile",
+      color_code: "#2AAFED",
+    },
+    {
+      title: "ECDL Core base",
+      subtitle:
+        "AICA - Associazione Italiana per l'Informatica e il Calcolo Automatico",
+      logo_path: "aica.png",
+      certificate_link:
+        "https://drive.google.com/file/d/17FTN559XOoQlk9lRFeLt9xqVQwt9NbPJ/view",
+      alt_name: "Google",
+      color_code: "#fe0037",
+    },
+    {
       title: "Impariamo da zero l'ecosistema Spring: Teoria e Pratica",
       subtitle: "Udemy",
       logo_path: "udemy.png",
@@ -323,43 +369,6 @@ const certifications = {
       alt_name: "Udemy",
       // color_code: "#f36c3d",
       color_code: "#a434f3",
-    },
-    {
-      title: "Oracle Cloud Infrastructure Foundations 2021 Associate",
-      subtitle: "Oracle",
-      logo_path: "oracle.png",
-      certificate_link:
-        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB1E2C0B1F18728135E6EC87B9F556903561B59CF3371813153ED0B15982FA05",
-      alt_name: "Oracle",
-      color_code: "#a05a36",
-    },
-    {
-      title: "Scrum Fundamentals Certified",
-      subtitle: "SCRUMstudy - Accreditation Body for Scrum and Agile",
-      logo_path: "scrum_study.jpg",
-      certificate_link:
-        "https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RiccardoManzi-820242.pdf",
-      alt_name: "SCRUMstudy - Accreditation Body for Scrum and Agile",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "ECDL Core base",
-      subtitle:
-        "AICA - Associazione Italiana per l'Informatica e il Calcolo Automatico",
-      logo_path: "aica.png",
-      certificate_link:
-        "https://drive.google.com/file/d/17FTN559XOoQlk9lRFeLt9xqVQwt9NbPJ/view",
-      alt_name: "Google",
-      color_code: "#fe0037",
-    },
-    {
-      title: "AWS Cloud Practitioner",
-      subtitle: "AWS",
-      logo_path: "aws.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1xlLye0KpNN5GZUtUpjKSs2t8-oKlHd3B/view",
-      alt_name: "Google",
-      color_code: "#084e89",
     },
   ],
 };

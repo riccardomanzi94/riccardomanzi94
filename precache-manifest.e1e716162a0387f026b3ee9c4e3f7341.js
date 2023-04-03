@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68fff7973146bbe744691a24560ad394",
+    "revision": "f3be01371afe3722d2d922b8d93b1220",
     "url": "/index.html"
   },
   {
-    "revision": "9a9878e8752348f338ec",
+    "revision": "f92c0f85e81b751cb818",
     "url": "/static/css/main.d16f7949.chunk.css"
   },
   {
-    "revision": "2d1ec43f7b3a93a3a599",
-    "url": "/static/js/2.0a1bb1ad.chunk.js"
+    "revision": "05d897637949d1ae4263",
+    "url": "/static/js/2.a1cd8dca.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.0a1bb1ad.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a1cd8dca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a9878e8752348f338ec",
-    "url": "/static/js/main.94d35b21.chunk.js"
+    "revision": "f92c0f85e81b751cb818",
+    "url": "/static/js/main.1d6d7dc1.chunk.js"
   },
   {
     "revision": "86270678e9ad3edc9349",
@@ -142,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54f6721948491acb1997fd43496cd7df",
     "url": "/static/media/flutter.54f67219.png"
+  },
+  {
+    "revision": "a7c15f8f41cb0cdc66177828e4653020",
+    "url": "/static/media/gcp.a7c15f8f.png"
   },
   {
     "revision": "6364dbb3a5b59c28566eac7e6aaacd04",

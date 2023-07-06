@@ -14,7 +14,7 @@ const greeting = {
   logo_name: "riccardo.m()",
   nickname: "Riccardo Manzi",
   full_name: "Riccardo Manzi",
-  subTitle: "BackEnd Developer, Open Source Enthusiast 🔥. Always learning.",
+  subTitle: "Cloud Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1Uf2dO6nlGSzmULgyr1Ajej24zO2Du9iI/view",
   mail: "mailto:riccardomanzi1994@gmail.com",
@@ -389,7 +389,13 @@ const experience = {
           logo_path: "deloitte.png",
           duration: "Luglio 2022 - present",
           //location: "Office",
-          description: `Cloud Native & Application Development`,
+          description: `Cloud Developer nell'area Cloud Native Application & Migration. Sviluppo di applicativi tramite l'utilizzo di Cloud Provider come GCP, AWS e Azure.
+          Principali mansioni: Supportare il team nella interpretazione dei bisogni del cliente e nella definizione delle metodologie e negli approcci più adatti per la loro ottimale soddisfazione.
+          Individuare, selezionare ed eventualmente customizzare gli strumenti più utili per la raccolta ed analisi di dati e l’elaborazione di soluzioni a supporto degli obiettivi del cliente.
+          Produrre analisi solide e corredate da dati fattuali in modo autonomo, utilizzando strumenti e risorse messe a disposizione e coordinando persone più Junior, se necessario.
+          Comunicare in modo chiaro, strutturato, breve ed incisivo le proprie idee e proposte;
+          Individuare potenziali problematiche di progetto e condividerle tempestivamente con il resto del team.
+          Collaborare produttivamente in team interfunzionali ed internazionali.`,
           color: "#ee3c26",
         },
         ,

@@ -14,7 +14,7 @@ const greeting = {
   logo_name: "riccardo.m()",
   nickname: "Riccardo Manzi",
   full_name: "Riccardo Manzi",
-  subTitle: "Cloud Developer, Open Source Enthusiast 🔥. Always learning.",
+  subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://cvws.icloud-content.com/B/ARTsSnAH623ea_djIjMIvDSU9mAQAcPcZUA88OpgFA7agMJlItfR7AI8/RiccardoManzi_CV_20231030.pdf?o=AgsQtJ8UxiusbjbVcjI6gLa2DgvqXeIVJmbn4GvyoMhb&v=1&x=3&a=CAogtybZ8bPqwbkAHXVJFGhLKISejTksqb-G-9Vlc9JXPEkSbRC5mcaFuDEYufahh7gxIgEAUgSU9mAQWgTR7AI8aibu7OrG-zDMLwltLZ79l4t6NrwDo_fsASV_-2FseOmsfvCz2ZJVm3Im6NlkRSDwRUU3RyAse-CXOcwzL-ocuucD9lWOIHd-TFVXZo6M7u8&e=1698674801&fl=&r=0fcf1c98-b14a-4708-a216-fefea877385e-1&k=sSnXLMTvaC_Ya-pNgpTCRA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=51&s=3b_5wEYiED1jyvPBH4tcUM6NXRU&cd=i",
   mail: "mailto:riccardomanzi1994@gmail.com",
@@ -25,8 +25,6 @@ const socialMediaLinks = {
   github: "https://github.com/riccardomanzi94",
   linkedin: "https://www.linkedin.com/in/riccardomanzi/",
   gmail: "riccardomanzi1994@gmail.com",
-  facebook: "https://www.facebook.com/riccardo.manzi.22/",
-  twitter: "https://twitter.com/riccardomanzi94",
   instagram: "https://www.instagram.com/riccardomanzi94/",
 };
 

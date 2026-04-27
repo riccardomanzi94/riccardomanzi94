@@ -1,4 +1,5 @@
 Riccardo Manzi
+
 Java Backend / Software Architect
 Java Backend Developer with strong architectural focus on designing scalable, resilient, and secure distributed systems. Proven experience in shaping backend architectures, defining microservices ecosystems, and driving technical decisions in enterprise‑grade environments.
 Deep expertise in the Java and Spring ecosystem, with a solid background in event‑driven architectures, Kafka‑based integrations, and cloud‑native solutions. Actively involved in system design, service decomposition, API contracts, and non‑functional requirements such as performance, fault tolerance, observability, and security.
@@ -55,6 +56,7 @@ Maven
 
 
 Professional Experience
+
 Java Backend Developer / Architectural Contributor
 Fabrick S.p.A. — January 2024 – Present
 
